@@ -6,8 +6,8 @@ Compilation of my Machine Learning course exercises and homework, taught by Prof
 This README provides a short and simple overview about the homeworks of Machine Learning course.
 [Here](Homework1/Report.pdf) you can find the complete report for the first homework. 
 
+[Here](Homework2/Second Report - CNN.pdf) you can find the seconds complete report about the second homework. 
 
-Please note that at the moment the dataset is not present inside the repository.
 
 # How to Run
 ## 1. Install all the libraries

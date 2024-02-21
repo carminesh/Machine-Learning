@@ -1,6 +1,7 @@
 .venv/
-data/
 d1_2133421.csv
 d2_2133421.csv
 .DS_Store
 __pycache__
+/Homework1/data
+/Homework2/data
