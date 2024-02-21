@@ -3,10 +3,11 @@ Compilation of my Machine Learning course exercises and homework, taught by Prof
 
 
 ### Note
-This README provides a short and simple overview about the homeworks of Machine Learning course.
+This README provides a short and simple overview of the homework for the Machine Learning course.
+
 [Here](Homework1/Report.pdf) you can find the complete report for the first homework. 
 
-[Here](Homework2/Second Report - CNN.pdf) you can find the seconds complete report about the second homework. 
+[Here](Homework2/Report2.pdf) you can find the second complete report about the second homework. 
 
 
 # How to Run
@@ -16,10 +17,10 @@ To ensure the correct installation of all essential Python libraries, execute th
 
 `pip install -r requirements.txt`
     
-## 2. Run the code
-Then just simply run the Jupyter Notebook's.
+## 2. Run the code
+
+Then just simply run the Jupyter Notebooks.
 
 
 
-
-
+## Please note that the dataset has not yet been provided 
