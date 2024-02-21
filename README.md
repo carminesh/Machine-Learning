@@ -5,7 +5,7 @@ Compilation of my Machine Learning course exercises and homework, taught by Prof
 ### Note
 This README provides a short and simple overview of the homework for the Machine Learning course.
 
-[Here](Homework1/Report.pdf) you can find the complete report for the first homework. 
+[Here](Homework1/Report1.pdf) you can find the complete report for the first homework. 
 
 [Here](Homework2/Report2.pdf) you can find the second complete report about the second homework. 
 
